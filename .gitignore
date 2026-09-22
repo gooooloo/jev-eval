@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+raw.jsonl
+_selftest/
+.DS_Store
+.env

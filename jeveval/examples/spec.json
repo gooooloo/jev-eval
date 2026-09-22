@@ -1,0 +1,17 @@
+{
+  "questions": {
+    "heaviest": {
+      "type": "choice",
+      "instructions": "记录里哪一项的总重量最大？",
+      "criteria": {
+        "苹果": null,
+        "香蕉": null,
+        "西瓜": null
+      }
+    },
+    "over1000": {
+      "type": "noul",
+      "instructions": "记录里是否存在总重量超过 1000 克的项目？"
+    }
+  }
+}
